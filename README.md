@@ -1,11 +1,10 @@
 ### 안녕하세요! Hi there! Guten Tag!👋👋
 
+-------------------
 
-
-### :loudspeaker: SNS
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/youhee-lee-5b358b20b/)](https://www.linkedin.com/in/youhee-lee-5b358b20b/) 
-[![Tistory](http://img.shields.io/badge/-Tistory-ffd700?style=for-the-badge&link=https://guten-tag.tistory.com/)](https://guten-tag.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bnm1128@gmail.com)](mailto:bnm1128@gmail.com)
+**Get In Touch** : [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/youhee-lee-5b358b20b/)](https://www.linkedin.com/in/youhee-lee-5b358b20b/) 
+[![Tistory](http://img.shields.io/badge/-Tistory-ffd700?style=flat&link=https://guten-tag.tistory.com/)](https://guten-tag.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:bnm1128@gmail.com)](mailto:bnm1128@gmail.com)
 ### ⚙️Main Tech Stack
 #### Language
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=Java)

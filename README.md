@@ -1,7 +1,7 @@
 ### 안녕하세요! Hi there! Guten Tag!👋👋
 
 ### SNS
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/youhee-lee-5b358b20b/)](https://www.linkedin.com/in/youhee-lee-5b358b20b/) |
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/youhee-lee-5b358b20b/)](https://www.linkedin.com/in/youhee-lee-5b358b20b/) 
 [![Tistory](http://img.shields.io/badge/-Tistory-ffd700?style=flat&link=https://guten-tag.tistory.com/)](https://guten-tag.tistory.com/)
 
 ### ⚙️Main Tech Stack

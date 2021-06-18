@@ -1,5 +1,5 @@
 ### 안녕하세요! Hi there! Guten Tag!👋👋
-
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/youhee-lee-5b358b20b/)](https://www.linkedin.com/in/youhee-lee-5b358b20b/)
 ### ⚙️Main Tech Stack
  Language | Database | Framework | Library |
 | :- | - | :-: | -: |

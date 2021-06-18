@@ -5,7 +5,7 @@
 ### :loudspeaker: SNS
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/youhee-lee-5b358b20b/)](https://www.linkedin.com/in/youhee-lee-5b358b20b/) 
 [![Tistory](http://img.shields.io/badge/-Tistory-ffd700?style=for-the-badge&link=https://guten-tag.tistory.com/)](https://guten-tag.tistory.com/)
-[![Gmail](http://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=malito:bnm1128@gmail.com/)](malito:bnm1128@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bnm1128@gmail.com)](mailto:bnm1128@gmail.com)
 ### ⚙️Main Tech Stack
 #### Language
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=Java)

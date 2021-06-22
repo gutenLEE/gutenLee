@@ -8,7 +8,7 @@
 
 **I'm currently learning**...  
 - ![TDD](http://img.shields.io/badge/-TDD-007396?style=flat)  
-- ![FP](http://img.shields.io/badge/-Functional_Programming-007396?style=flat)
+- ![FP](http://img.shields.io/badge/-Reactive_Programming-007396?style=flat)
 - ![webflux](http://img.shields.io/badge/-Spring_Webflux-007396?style=flat)
 - ![MSA](http://img.shields.io/badge/-MSA-007396?style=flat)
 

@@ -2,9 +2,16 @@
 
 -------------------
 
-**Get In Touch** : [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/youhee-lee-5b358b20b/)](https://www.linkedin.com/in/youhee-lee-5b358b20b/) 
+**Get In Touch** : [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/youhee-lee-5b358b20b/)](https://www.linkedin.com/in/youhee-lee-5b358b20b/)
 [![Tistory](http://img.shields.io/badge/-Tistory-ffd700?style=flat&link=https://guten-tag.tistory.com/)](https://guten-tag.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:bnm1128@gmail.com)](mailto:bnm1128@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:bnm1128@gmail.com)](mailto:bnm1128@gmail.com)  
+
+**I'm currently learning**...  
+- ![TDD](http://img.shields.io/badge/-TDD-007396?style=flat)  
+- ![FP](http://img.shields.io/badge/-Functional_Programming-007396?style=flat)
+- ![webflux](http://img.shields.io/badge/-Spring_Webflux-007396?style=flat)
+- ![MSA](http://img.shields.io/badge/-MSA-007396?style=flat)
+
 ### ⚙️Main Tech Stack
 #### Language
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=Java)

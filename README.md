@@ -11,6 +11,7 @@
 - ![React](http://img.shields.io/badge/-React-007396?style=flat)
 - ![webflux](http://img.shields.io/badge/-Spring_Webflux-007396?style=flat)
 - ![RabbitMQ](http://img.shields.io/badge/-RabbitMQ-007396?style=flat)
+- ![Redis](http://img.shields.io/badge/-RabbitMQ-007396?style=flat)
 
 ### ⚙️Main Tech Stack
 #### Language

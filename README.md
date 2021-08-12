@@ -8,13 +8,12 @@
 
 **I'm currently learning and using**...  
 - ![TDD](http://img.shields.io/badge/-TDD-007396?style=flat)  
-- ![React](http://img.shields.io/badge/-React-007396?style=flat)
-- ![webflux](http://img.shields.io/badge/-Spring_Webflux-007396?style=flat)
-- ![Kafka](http://img.shields.io/badge/-Kafka-007396?style=flat)
-- ![RabbitMQ](http://img.shields.io/badge/-RabbitMQ-007396?style=flat)
+- ![React](http://img.shields.io/badge/-React-007396?style=flat), ![webflux](http://img.shields.io/badge/-Spring_Webflux-007396?style=flat)
+- ![Kafka](http://img.shields.io/badge/-Kafka-007396?style=flat), ![RabbitMQ](http://img.shields.io/badge/-RabbitMQ-007396?style=flat)
 - ![Redis](http://img.shields.io/badge/-Redis-007396?style=flat)
 - ![ElasticSearch](http://img.shields.io/badge/-ElasticSearch-007396?style=flat)
-
+- ![Selenium](http://img.shields.io/badge/-Selenium-007396?style=flat) with Java
+- 
 ### ⚙️Main Tech Stack
 #### Language
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=Java)

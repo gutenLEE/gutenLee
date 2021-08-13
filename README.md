@@ -22,8 +22,6 @@
 #### Database
 ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
-![Oracle](http://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle)
-
 
 ### 🖋 Education
 - Bachelor of Business Administration

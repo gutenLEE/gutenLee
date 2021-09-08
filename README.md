@@ -14,7 +14,7 @@ Back-end Developer
 - ![Redis](http://img.shields.io/badge/-Redis-007396?style=flat)
 - ![ElasticSearch](http://img.shields.io/badge/-ElasticSearch-007396?style=flat)
 - ![Selenium](http://img.shields.io/badge/-Selenium-007396?style=flat) with Java
-- ![Docker](http://img.shields.io/badge/-Docker-007396?style=flat)
+- ![Docker](http://img.shields.io/badge/-Docker-007396?style=flat), ![Kubernetes](http://img.shields.io/badge/-Kubernetes-007396?style=flat)
 
 ### ⚙️Main Tech Stack
 #### Language

@@ -8,18 +8,13 @@ Back-end Developer
 
 **I'm currently learning and using**...  
 - ![TDD](http://img.shields.io/badge/-TDD-007396?style=flat)  
-- ![React](http://img.shields.io/badge/-React-007396?style=flat), ![webflux](http://img.shields.io/badge/-Spring_Webflux-007396?style=flat)
-- ![Kafka](http://img.shields.io/badge/-Kafka-007396?style=flat), ![RabbitMQ](http://img.shields.io/badge/-RabbitMQ-007396?style=flat)
+- ![webflux](http://img.shields.io/badge/-Spring_Webflux-007396?style=flat)
 - ![Redis](http://img.shields.io/badge/-Redis-007396?style=flat)
-- ![ElasticSearch](http://img.shields.io/badge/-ElasticSearch-007396?style=flat)
-- ![Selenium](http://img.shields.io/badge/-Selenium-007396?style=flat) with Java
 - ![Docker](http://img.shields.io/badge/-Docker-007396?style=flat), ![Kubernetes](http://img.shields.io/badge/-Kubernetes-007396?style=flat)
 
 ### ⚙️Main Tech Stack
 #### Language
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=Java)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=gray)
 #### Database
 ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)

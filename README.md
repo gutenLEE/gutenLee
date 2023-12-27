@@ -9,7 +9,6 @@ Back-end Developer
 **I'm currently learning and using**...  
 - ![TDD](http://img.shields.io/badge/-TDD-007396?style=flat)  
 - ![webflux](http://img.shields.io/badge/-Spring_Webflux-007396?style=flat)
-- ![Redis](http://img.shields.io/badge/-Redis-007396?style=flat)
 - ![Docker](http://img.shields.io/badge/-Docker-007396?style=flat), ![Kubernetes](http://img.shields.io/badge/-Kubernetes-007396?style=flat)
 
 ### ⚙️Main Tech Stack

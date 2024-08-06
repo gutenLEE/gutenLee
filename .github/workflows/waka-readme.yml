@@ -1,0 +1,29 @@
+name: Waka Readme
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    - cron: "59 23 * * 0"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master # this action name
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          ### content
+          SHOW_TITLE: true # optional
+          SECTION_NAME: waka-weekly # optional
+          TIME_RANGE: last_7_days # optional
+          LANG_COUNT: 5 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          IGNORED_LANGUAGES: YAML JSON # optional
+          ### commit
+          COMMIT_MESSAGE: Docs - update waka-readme graph # optional
+          TARGET_BRANCH: main # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: GitHubActionBot # optional

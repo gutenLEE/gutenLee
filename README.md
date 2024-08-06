@@ -1,29 +1,22 @@
-### 안녕하세요! Hi there! Guten Tag!👋👋
-Back-end Developer
+# Back-end Developer 👋👋
 
--------------------
+---
+**Get In Touch**: 
+- [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/youhee-lee-5b358b20b/)](https://www.linkedin.com/in/youhee-lee-5b358b20b/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:bnm1128@gmail.com)](mailto:bnm1128@gmail.com)
+---
+### ⚙️ Main Tech Stack
+|                                                                          Language & Framework                                                                           |                                                                                                            Database                                                                                                             |                                               CI/CD                                               |    Etc    |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:---------:|
+| ![Java](http://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java)<br/>![Spring](http://img.shields.io/badge/-Spring-47A248?style=for-the-badge&logo=Spring&logoColor=white) | ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue) <br/>![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white) | ![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) |
 
-**Get In Touch** : [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/youhee-lee-5b358b20b/)](https://www.linkedin.com/in/youhee-lee-5b358b20b/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:bnm1128@gmail.com)](mailto:bnm1128@gmail.com) 
+### 📰 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-**I'm currently learning and using**...  
-- ![TDD](http://img.shields.io/badge/-TDD-007396?style=flat)  
-- ![webflux](http://img.shields.io/badge/-Spring_Webflux-007396?style=flat)
-- ![Docker](http://img.shields.io/badge/-Docker-007396?style=flat), ![Kubernetes](http://img.shields.io/badge/-Kubernetes-007396?style=flat)
 
-### ⚙️Main Tech Stack
-#### Language
-![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=Java)
-#### Database
-![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
-![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
-#### Framework
-![Spring](http://img.shields.io/badge/-Spring-47A248?style=flat&logo=Spring&logoColor=white)
-
-### 🖋 Education
-- Bachelor of Business Administration
-- Bachelor of Arts in German Language and Literature
-
+### 📊 Dev Metrics 
+<!--START_SECTION:waka-weekly-->
+<!--END_SECTION:waka-weekly-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutenLee&show_icons=true&theme=radical)
 

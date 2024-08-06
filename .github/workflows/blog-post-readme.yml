@@ -20,7 +20,7 @@ jobs:
           max_post_count: '3'
           remove_duplicates: true
           retry_count: 2
-          template: '$emojiKey(🧻) [$title]($url)<br>'
+          template: <a href="$url">'$emojiKey(🧻) $title</a><br>'
           commit_message: "docs - Updated readme with the latest blog posts"
           user_agent: "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
           accept_header: "text/xml"

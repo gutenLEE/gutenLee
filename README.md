@@ -12,7 +12,6 @@
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->🧻 ![공식, 이론, 실제를 모두 확인하며 병렬 프로그래밍 성능 개선하기!](https://guui-dev-lee.tistory.com/20)<br>🧻 ![동기화된 리스트를 빠르게 조회하기 - synchronizedList와 CopyOnWriteArrayList 성능 비교해봅시다](https://guui-dev-lee.tistory.com/17)<br>🧻 ![대용량 데이터를 빠르게 조회하기 - 페이징 전략 비교&lpar;offset,  no offset, Where In&rpar;](https://guui-dev-lee.tistory.com/16)<br><!-- BLOG-POST-LIST:END -->
 
-
 ### 📊 Dev Metrics 
 <!--START_SECTION:waka-->
 

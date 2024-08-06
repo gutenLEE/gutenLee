@@ -15,8 +15,8 @@
 
 
 ### 📊 Dev Metrics 
-<!--START_SECTION:waka-weekly-->
-<!--END_SECTION:waka-weekly-->
+<!--START_SECTION:waka--> 
+<!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutenLee&show_icons=true&theme=radical)
 

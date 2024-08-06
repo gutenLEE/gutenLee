@@ -16,7 +16,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ### content
           SHOW_TITLE: true # optional
-          SECTION_NAME: waka-weekly # optional
           TIME_RANGE: last_7_days # optional
           LANG_COUNT: 5 # optional
           SHOW_TIME: true # optional

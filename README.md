@@ -15,7 +15,16 @@
 
 
 ### 📊 Dev Metrics 
-<!--START_SECTION:waka--> 
+<!--START_SECTION:waka-->
+
+```txt
+From: 30 July 2024 - To: 06 August 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutenLee&show_icons=true&theme=radical)

@@ -13,14 +13,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+      - name: Pull in tistory blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://guui-dev-lee.tistory.com/rss"
           max_post_count: '3'
-          template: '$emojiKey(💡) [$title]($url)'
-          committer_username: ${{ github.actor }}
+          remove_duplicates: true
           retry_count: 2
+          template: '$emojiKey(💡) [$title]($url)'
           commit_message: "docs - Updated readme with the latest blog posts"
           user_agent: "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
           accept_header: "text/xml"

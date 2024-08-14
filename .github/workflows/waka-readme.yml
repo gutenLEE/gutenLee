@@ -20,7 +20,7 @@ jobs:
           LANG_COUNT: 5 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
-          IGNORED_LANGUAGES: YAML JSON # optional
+          IGNORED_LANGUAGES: Text # optional
           ### commit
           COMMIT_MESSAGE: Docs - update waka-readme graph # optional
           TARGET_BRANCH: main # optional

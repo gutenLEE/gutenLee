@@ -23,20 +23,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2024 - To: 29 September 2024
+From: 06 August 2024 - To: 06 October 2024
 
-Total Time: 103 hrs 14 mins
+Total Time: 105 hrs 41 mins
 
-Java                  73 hrs 27 mins  █████████████████▓░░░░░░░   71.13 %
-Markdown              14 hrs 11 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-YAML                  4 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-Groovy                2 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-HTTP Request          2 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Docker                1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Text                  58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Gradle                58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-HTML                  54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Bash                  53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Java                  74 hrs 49 mins  █████████████████▓░░░░░░░   70.80 %
+Markdown              14 hrs 22 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
+YAML                  4 hrs 50 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Groovy                2 hrs 35 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+HTTP Request          2 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Docker                1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Gradle                1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+HTML                  54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Bash                  53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->

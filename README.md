@@ -23,20 +23,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2024 - To: 02 March 2025
+From: 06 August 2024 - To: 07 March 2025
 
-Total Time: 188 hrs 5 mins
+Total Time: 203 hrs 43 mins
 
-Other                 119 hrs         █████████▓░░░░░░░░░░░░░░░   38.75 %
-Java                  75 hrs 13 mins  ██████░░░░░░░░░░░░░░░░░░░   24.49 %
-Kotlin                71 hrs 6 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
-Markdown              15 hrs 53 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-YAML                  7 hrs 29 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-SQL                   4 hrs 45 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Groovy                3 hrs 14 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-HTTP Request          2 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Gradle                1 hr 9 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Docker                1 hr 3 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Other                 134 hrs 16 mins ██████████░░░░░░░░░░░░░░░   39.73 %
+Kotlin                77 hrs 21 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
+Java                  75 hrs 13 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
+Markdown              19 hrs 54 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+SQL                   9 hrs 21 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+YAML                  8 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Groovy                3 hrs 14 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+HTTP Request          2 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Gradle                1 hr 9 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Docker                1 hr 5 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->

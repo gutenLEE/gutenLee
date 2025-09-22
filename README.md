@@ -15,7 +15,7 @@
 <br>
 
 ### 📰 Latest Blog Posts
-<!-- BLOG-POST-LIST:START --><a href="https://guui-dev-lee.tistory.com/31">🧻  [서평] 출판사: 길벗, 책: 코드 작성 가이드, 저자: 이시가와 무네토시</a><br><a href="https://guui-dev-lee.tistory.com/30">🧻  [회사에 기여하기 - 1] 빌더 패턴을 사용한 코드 개선 과정</a><br><a href="https://guui-dev-lee.tistory.com/29">🧻  2024년 10월까지 회고</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><a href="https://guui-dev-lee.tistory.com/30">🧻  [회사에 기여하기 - 1] 빌더 패턴을 사용한 코드 개선 과정</a><br><a href="https://guui-dev-lee.tistory.com/20">🧻  공식, 이론, 실제를 모두 확인하며 병렬 프로그래밍 성능 개선하기!</a><br><a href="https://guui-dev-lee.tistory.com/17">🧻  동기화된 리스트를 빠르게 조회하기 - synchronizedList와 CopyOnWriteArrayList 성능 비교해봅시다</a><br><!-- BLOG-POST-LIST:END -->
 
 <br>
 

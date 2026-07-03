@@ -1,16 +1,9 @@
-# Back-end Developer 👋👋
+# Builder 👋👋
 
 
 **Get In Touch**: 
 - [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/youhee-lee-5b358b20b/)](https://www.linkedin.com/in/youhee-lee-5b358b20b/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:bnm1128@gmail.com)](mailto:bnm1128@gmail.com)
 ---
-
-<br>
-
-### ⚙️ Main Tech Stack
-|                                                                          Language & Framework                                                                           |                                                                                                            Database                                                                                                             |                                               CI/CD                                               |    Etc    |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:---------:|
-| ![Java](http://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java)<br/>![Spring](http://img.shields.io/badge/-Spring-47A248?style=for-the-badge&logo=Spring&logoColor=white) | ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue) <br/>![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white) | ![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) |
 
 <br>
 

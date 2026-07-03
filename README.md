@@ -31,9 +31,3 @@ HTML                  31 hrs 32 mins        ▒░░░░░░░░░░░
 JSON                  27 hrs 34 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 Python                21 hrs 1 min          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
-
-<!--END_SECTION:waka-->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutenLee&show_icons=true&theme=radical)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gutenLEE)](https://github.com/gutenLEE) 
